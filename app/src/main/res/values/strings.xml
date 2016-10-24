@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music Player</string>
+
+    <string name="btn_import">Import Songs</string>
+    <string name="btn_lvdata">Choose To Download</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_songs">No Songs Available !!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activitylsmusic">Activitylsmusic</string>
+</resources>
